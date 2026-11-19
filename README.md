@@ -1,4 +1,4 @@
-# INFOM124-STUDENTS-26-27
+# INFOM124-STUDENTS-26-27 test PR
 
 ## Practical courses - 2026-2027
 
